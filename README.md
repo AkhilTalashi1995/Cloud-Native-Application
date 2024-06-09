@@ -1,6 +1,6 @@
 ## Cloud Native Web Application
 
-This project is a cloud native web application built with Node.js using the Express framework. It serves as a web application for managing assignments, with CRUD (Create, Read, Update, Delete) operations implemented through APIs.
+This project leverages AWS alongside Node.js and Express, creating a cloud-native web application designed for optimal performance and scalability. It serves as a web application for managing assignments, with CRUD (Create, Read, Update, Delete) operations implemented through APIs.
 
 ## Tech Stack
 
