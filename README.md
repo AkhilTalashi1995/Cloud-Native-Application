@@ -1,3 +1,5 @@
+[![HitCount](https://hits.dwyl.com/akhiltalashi1995/Cloud-Native-Application.svg?style=flat-square)](http://hits.dwyl.com/akhiltalashi1995/Cloud-Native-Application)
+
 ## Cloud Native Web Application
 
 This project leverages AWS alongside Node.js and Express, creating a cloud-native web application designed for optimal performance and scalability. It serves as a web application for managing assignments, with CRUD (Create, Read, Update, Delete) operations implemented through APIs.
